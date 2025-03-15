@@ -2,8 +2,8 @@
 title: "Sublinear Hitting Sets for Some Geometric Graphs"
 authors:
 - Xinbu Cheng
-- Xinqi Huang
 - admin
+- Mingyuan Rong
 - Zixiang Xu
 date: "2024-04-16T00:00:00Z"
 doi: ""
