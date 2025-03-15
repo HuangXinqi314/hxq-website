@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Mingyuan Rong
+title: Xinqi Huang
 
 # Name pronunciation (optional)
 
 # Full name (for SEO)
-first_name: Mingyuan
-last_name: Rong
+first_name: Xinqi
+last_name: Huang
 
 # Status emoji
 status:
@@ -30,7 +30,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:rong_ming_yuan@mail.ustc.edu.cn'
+    url: 'mailto:huangxq@mail.ustc.edu.cn'
     label: E-mail Me
 
 interests:
