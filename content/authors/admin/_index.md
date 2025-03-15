@@ -40,14 +40,13 @@ interests:
 education:
   - area: Ph.D. in Mathematics
     institution: University of Science and Technology of China
-    date_start: 2021-09-01
+    date_start: 2022-09-01
     date_end: ''
-    summary: |
-      Advisor: Prof. Jie Ma
+    summary: Joint PhD Program between USTC and IBS(South Korea)
   - area: B.Sc. in Mathematics
     institution: University of Science and Technology of China
-    date_start: 2017-09-01
-    date_end: 2021-08-31
+    date_start: 2018-09-01
+    date_end: 2022-08-31
     summary: |
       Graduated with a Bachelor's degree in Mathematics.
 
