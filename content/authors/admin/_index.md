@@ -105,4 +105,4 @@ languages:
 
 ## About Me
 
-I am a Ph.D. candidate in Mathematics at the University of Science and Technology of China. My research interests include extremal set theory and extremal graph theory. I am currently working under the supervision of Prof. Jie Ma and has published several preprints in these areas. 
+I am a Ph.D. candidate in Mathematics at the University of Science and Technology of China. My research interests include extremal set theory, extremal graph theory, coding theory and additive combinatorics. I am very honored to receive the guidance of Prof. Xiande Zhang(USTC) and Prof. [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)(IBS-ECOPRO).
