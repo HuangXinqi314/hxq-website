@@ -36,6 +36,8 @@ profiles:
 interests:
   - Extremal Set Theory
   - Extremal Graph Theory
+  - Coding Theory
+  - Additive Combinatorics
 
 education:
   - area: Ph.D. in Mathematics
