@@ -42,7 +42,7 @@ education:
     institution: University of Science and Technology of China
     date_start: 2022-09-01
     date_end: ''
-    summary: Joint PhD Program between USTC and IBS(South Korea)
+    summary: Co-advised by Prof. Xiande Zhang(USTC) and Prof. Hong Liu(IBS-ECOPRO)
   - area: B.Sc. in Mathematics
     institution: University of Science and Technology of China
     date_start: 2018-09-01
