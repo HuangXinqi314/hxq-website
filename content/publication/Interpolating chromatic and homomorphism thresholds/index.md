@@ -1,9 +1,9 @@
 ---
 title: "Interpolating chromatic and homomorphism thresholds"
 authors:
-- Xinqi Huang
-- Hong Liu
 - admin
+- Hong Liu
+- Mingyuan Rong
 - Zixiang Xu
 date: "2025-02-13T00:00:00Z"
 doi: ""
