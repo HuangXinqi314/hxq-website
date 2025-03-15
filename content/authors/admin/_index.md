@@ -39,14 +39,11 @@ interests:
 
 education:
   - area: Ph.D. in Mathematics
-    institutions:
-      - name: University of Science and Technology of China (USTC)
-        date_start: 2022-09-01
-        advisor: Prof. Xiande Zhang
-      - name: Institute for Basic Science (IBS)
-        date_start: 2024-07-01
-        advisor: Prof. Hong Liu
-    date_end: ''  # 可保留总时间段（如果有）
+    institution: |
+    University of Science and Technology of China (2022-Present)
+    Partner University Name (2024-Present)
+    date_start: 2022-09-01
+    advisor: Prof. Xiande Zhang
     summary: Joint PhD Program between USTC and IBS
   - area: B.Sc. in Mathematics
     institution: University of Science and Technology of China
