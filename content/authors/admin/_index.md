@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Mingyuan Rong
+title: Xinqi Huang
 
 # Name pronunciation (optional)
 
 # Full name (for SEO)
-first_name: Mingyuan
-last_name: Rong
+first_name: Xinqi
+last_name: Huang
 
 # Status emoji
 status:
@@ -30,25 +30,32 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:rong_ming_yuan@mail.ustc.edu.cn'
+    url: 'mailto:huangxq@mail.ustc.edu.cn'
     label: E-mail Me
 
 interests:
   - Extremal Set Theory
   - Extremal Graph Theory
+  - Coding Theory
+  - Additive Combinatorics
 
 
 education:
   - area: Ph.D. in Mathematics
     institution: University of Science and Technology of China
-    date_start: 2021-09-01
+    date_start: 2022-09-01
     date_end: ''
     summary: |
-      Advisor: Prof. Jie Ma
+    Advisor: Prof. Xiande Zhang
+    institution: Institute for Basic Science
+    date_start: 2024-07-01
+    date_end:''
+    summary:
+    Advisor: Prof. [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)
   - area: B.Sc. in Mathematics
     institution: University of Science and Technology of China
-    date_start: 2017-09-01
-    date_end: 2021-08-31
+    date_start: 2018-09-01
+    date_end: 2022-08-31
     summary: |
       Graduated with a Bachelor's degree in Mathematics.
 
