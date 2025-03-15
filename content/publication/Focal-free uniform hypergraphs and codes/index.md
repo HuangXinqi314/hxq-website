@@ -1,5 +1,5 @@
 ---
-title: "Interpolating chromatic and homomorphism thresholds"
+title: "Focal-free uniform hypergraphs and codes"
 authors:
 - admin
 - Chong Shangguan
