@@ -40,12 +40,9 @@ interests:
 
 education:
   - area: Ph.D. in Mathematics
-    institution: Institute for Basic Science
-    date_start: 2024-07-01
-    date_end: ''
-    summary: |
-      Advisor: Prof. Hong Liu
-    institution: University of Science and Technology of China
+    institution: 
+      - University of Science and Technology of China
+      - Institute for Basic Science (ECOPRO)
     date_start: 2022-09-01
     date_end: ''
     summary: |
