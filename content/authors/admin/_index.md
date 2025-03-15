@@ -39,10 +39,10 @@ interests:
 
 education:
   - area: Ph.D. in Mathematics
-    institutions: University of Science and Technology of China & Institute for Basic Science (South Korea)
-    date_start: 2022-09-01 & 2024-07-01
+    institutions: University of Science and Technology of China  Institute for Basic Science (South Korea)
+    date_start: 2022-09-01  2024-07-01
     date_end: ''
-    advisor: Prof. Xiande Zhang & Prof. Hong Liu
+    advisor: Prof. Xiande Zhang  Prof. Hong Liu
     summary: Joint PhD Program between USTC and IBS
   - area: B.Sc. in Mathematics
     institution: University of Science and Technology of China
