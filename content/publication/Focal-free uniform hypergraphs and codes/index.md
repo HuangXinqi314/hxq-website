@@ -26,10 +26,10 @@ tags:
 
 featured: true
 
-url_pdf: https://arxiv.org/pdf/2502.09576
+url_pdf: https://arxiv.org/pdf/2410.23611
 links:
   - name: arXiv
-    url: https://arxiv.org/abs/2502.09576
+    url: https://arxiv.org/abs/2410.23611
 
 
 # Featured image
