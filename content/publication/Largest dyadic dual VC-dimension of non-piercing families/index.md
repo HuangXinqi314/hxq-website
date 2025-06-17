@@ -1,5 +1,5 @@
 ---
-title: "Sublinear Hitting Sets for Some Geometric Graphs"
+title: "Largest dyadic dual VC-dimension of non-piercing families"
 authors:
 - admin
 - Yuzhen Qi
