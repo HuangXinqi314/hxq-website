@@ -92,6 +92,8 @@ skills:
 languages:
   - name: Chinese
     percent: 100
+  - name: Min language
+    percent: 100
   - name: English
     percent: 76 
 
