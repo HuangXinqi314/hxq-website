@@ -44,7 +44,6 @@ education:
     institution: University of Science and Technology of China
     date_start: 2022-09-01
     date_end: ''
-    summary: Co-advised by Prof. Xiande Zhang(USTC) and Prof. Hong Liu(IBS-ECOPRO)
   - area: B.Sc. in Mathematics
     institution: University of Science and Technology of China
     date_start: 2018-09-01
@@ -107,5 +106,5 @@ languages:
 
 ## About Me
 
-Hey! Welcome to my homepage! My name is Xinqi Huang(Chinese name 黄欣祺). I am a Ph.D. candidate in Mathematics at the University of Science and Technology of China. My research interests include extremal set theory, extremal graph theory, coding theory and additive combinatorics. I am privileged to work under the supervision of Prof. [Xiande Zhang](http://staff.ustc.edu.cn/~drzhangx/)(USTC), Prof. [Tuan Tran](https://tuaentran.wixsite.com/homepage)(USTC) and Prof. [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)(IBS-ECOPRO).
+Hey! Welcome to my homepage! My name is Xinqi Huang(Chinese name 黄欣祺). I am a Ph.D. candidate in Mathematics at the University of Science and Technology of China. My research interests include extremal set theory, extremal graph theory, coding theory and additive combinatorics. I am privileged to work under the supervision of Prof. [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)(IBS-ECOPRO), Prof. [Tuan Tran](https://tuaentran.wixsite.com/homepage)(USTC) and and Prof. [Xiande Zhang](http://staff.ustc.edu.cn/~drzhangx/)(USTC) (listed by alphabetical order).
 Throughout my doctoral journey, several researchers beyond my advisors have provided invaluable support. I would like to express my sincere gratitude to all those who have contributed to my academic growth and research progress: Dr. [Zixiang Xu](https://www.ibs.re.kr/ecopro/zixiangxu/), Dr. [Chi Hoi Yip](https://sites.google.com/view/kyle-chi-hoi-yip/home), [Mingyuan Rong](https://www.mingyuanrong.com/) and Yuhao Zhao.
