@@ -111,11 +111,4 @@ Hey! Welcome to my homepage! My name is Xinqi Huang(Chinese name 黄欣祺). I a
 Throughout my doctoral journey, several researchers beyond my advisors have provided invaluable support. I would like to express my sincere gratitude to all those who have contributed to my academic growth and research progress: Dr. [Zixiang Xu](https://www.ibs.re.kr/ecopro/zixiangxu/), Dr. [Chi Hoi Yip](https://sites.google.com/view/kyle-chi-hoi-yip/home), [Mingyuan Rong](https://www.mingyuanrong.com/) and Yuhao Zhao.
 
 
-## Conferences & Workshops
 
-- 2025.07  &nbsp; **Workshop on Graph Colouring and Extremal Combinatorics**,  
-  Seoul National University, contributed talk: *Interpolating chromatic and homomorphism thresholds*.
-- 2024.11  &nbsp; **Coding Theory and Combinatorics Seminar**,  
-  University of Science and Technology of China, invited talk: *Focal-free uniform hypergraphs and codes*.
-- 2023.08  &nbsp; **XXX International Conference on Combinatorics**,  
-  (Poster) *Largest dyadic dual VC-dimension of non-piercing families*.
