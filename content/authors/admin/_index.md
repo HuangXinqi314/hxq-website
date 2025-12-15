@@ -94,8 +94,16 @@ languages:
   - name: Min language
     percent: 100
   - name: English
-    percent: 76 
+    percent: 76
 
+## Conferences & Workshops
+
+- 2025.07  &nbsp; **Workshop on Graph Colouring and Extremal Combinatorics**,  
+  Seoul National University, contributed talk: *Interpolating chromatic and homomorphism thresholds*.
+- 2024.11  &nbsp; **Coding Theory and Combinatorics Seminar**,  
+  University of Science and Technology of China, invited talk: *Focal-free uniform hypergraphs and codes*.
+- 2023.08  &nbsp; **XXX International Conference on Combinatorics**,  
+  (Poster) *Largest dyadic dual VC-dimension of non-piercing families*.
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
