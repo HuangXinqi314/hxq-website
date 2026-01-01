@@ -1,15 +1,15 @@
 ---
-title: "Activities"
+title: "Talks"
 menu:
   main:
-    name: "Activities"
+    name: "Talks"
     weight: 30
 ---
 
 <style>
 .activities-list {
   /* 调整体块宽度：默认很窄的话，可以放宽一点 */
-  max-width: 950px;      /* 可以按需要改成 850 / 950 等 */
+  max-width: 1000px;      /* 可以按需要改成 850 / 950 等 */
   margin: 0 auto;        /* 居中 */
 
   /* 调整体块里的字体大小 */
