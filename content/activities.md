@@ -21,7 +21,7 @@ menu:
 <div class="activities-list">
 
 
-- 2025.12.30, *Chromatic, Homomorphism, Blowup Thresholds*, invited talk, Seminars on Discrete Mathematics, Xiamen University, Xiamen, Fujian, China. 
+- 2025.12.30, *Chromatic, Homomorphism, Blowup Thresholds*, invited talk, [Seminars on Discrete Mathematics](https://tianyuan.xmu.edu.cn/Seminars/3376.html), Xiamen University, Xiamen, Fujian, China. 
   
 - 2025.12.15, *Chromatic, Homomorphism, Blowup Thresholds and Beyond*, invited talk, Beijing Institute of Technology, Beijing, China.
   
