@@ -40,6 +40,17 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: collection
+    content:
+      title: Publications
+      text: ""
+      filters:
+        folders:
+          - preprint
+        exclude_featured: false
+    design:
+      view: citation
+
   - block: markdown
     content:
       title: 'Co-authors'
