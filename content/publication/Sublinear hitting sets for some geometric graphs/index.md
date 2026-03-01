@@ -16,8 +16,8 @@ doi: ""
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Frontiers in Combinatorics and Number Theory, vol. 2, May 2026"
+publication_short: "FCNT"
 
 abstract: |- 
     For an n-vertex graph G, let h(G) denote the smallest size of a subset of V(G) such that it intersects every maximum independent set of G. A conjecture posed by Bollobás, Erdős and Tuza in the early 90s remains widely open, asserting that for any n-vertex graph G, if the independence number α(G) = Ω(n), then h(G) = o(n). In this paper, we establish the validity of this conjecture for various classes of graphs. Our main contributions include:
