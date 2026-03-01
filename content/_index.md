@@ -32,11 +32,11 @@ sections:
           parallax: false
   - block: collection
     content:
-      title: Publications
+      title: Preprints
       text: ""
       filters:
         folders:
-          - publication
+          - preprint
         exclude_featured: false
     design:
       view: citation
@@ -46,7 +46,7 @@ sections:
       text: ""
       filters:
         folders:
-          - preprint
+          - publication
         exclude_featured: false
     design:
       view: citation
