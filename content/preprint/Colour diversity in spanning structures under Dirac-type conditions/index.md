@@ -20,10 +20,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Finding spanning structures with many distinct colours in properly edge-coloured graphs is a central theme in extremal combinatorics. A classical result of Andersen shows that every proper edge-colouring of the complete graph Kn contains a Hamilton cycle with n−O(n1/2) distinct colours. In the bipartite setting, the analogous question for perfect matchings is closely related to permutations in Latin squares. In this paper, we investigate how a Dirac-type minimum degree condition forces colour diversity in spanning structures. For every constant 1/2<c≤1, we prove the following.
-Every properly edge-coloured graph G on n vertices with δ(G)≥cn contains a Hamilton cycle with at least cn−O(n1/2) distinct colours.
-Every subset of an n×n Latin square with at least cn cells in each row and each column contains a permutation with at least cn−O(n2/3) distinct symbols.
-Both bounds are best possible up to the error term.
+abstract: 
 tags:
 - Dirac theorem
 - Absorption
