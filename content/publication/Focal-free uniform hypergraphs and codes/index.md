@@ -16,7 +16,7 @@ doi: ""
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Combinatorial Theory, Series A **(JCTA)**, Volume 223, October 2026, 106193"
+publication: "Journal of Combinatorial Theory, Series A **(JCTA)**, Volume 223, October 2026"
 publication_short: ""
 
 abstract: Motivated by the study of a variant of sunflowers, Alon and Holzman recently introduced focal-free hypergraphs. In this paper, we show that there is an interesting connection between the maximum size of focal-free hypergraphs and the renowned Erdős Matching Conjecture on the maximum number of edges that can be contained in a uniform hypergraph with bounded matching number. As a consequence, we give asymptotically optimal bounds on the maximum sizes of focal-free uniform hypergraphs and codes, thereby significantly improving the previous results of Alon and Holzman. Moreover, by using the existentce results of combinatorial designs and orthogonal arrays, we are able to explicitly determine the exact sizes of maximum focal-free uniform hypergraphs and codes for a wide range of parameters.
