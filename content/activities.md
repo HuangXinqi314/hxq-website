@@ -19,7 +19,8 @@ menu:
 </style>
 
 <div class="activities-list">
-
+  
+- 2026.06.06-07, *On the Blowup Thereshold of Graphs*, invited talk, Young Scholars Forum on Graph Theory and Combinatorics, Shandong University, Online. 
 
 - 2025.12.30, *Chromatic, Homomorphism, Blowup Thresholds*, invited talk, [Seminars on Discrete Mathematics](https://tianyuan.xmu.edu.cn/Seminars/3376.html), Xiamen University, Xiamen, Fujian, China. 
   
