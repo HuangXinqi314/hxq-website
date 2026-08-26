@@ -55,7 +55,7 @@ sections:
     content:
       title: 'Co-authors'
       subtitle: ''
-      text: "[Mingyuan Rong](https://www.mingyuanrong.com/)(4), [Zixiang Xu](https://www.ibs.re.kr/ecopro/zixiangxu/)(3), [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)(3), [Xiande Zhang](http://staff.ustc.edu.cn/~drzhangx/)(2), [Chong Shangguan](https://faculty.sdu.edu.cn/sgc/zh_CN/index/1259037/list/index.htm)(2), Xinbu Cheng(2), [Lior Gishboliner](https://sites.google.com/view/lior-gishboliner)(1), Zhifei Yan(1), Yuhao Zhao(1), Bin Wang(1), Yuzhen Qi(1), Wenjie Zhong(1), [Ting-Wei Chao](https://www.twchao.org/)(0)"
+      text: "[Mingyuan Rong](https://www.mingyuanrong.com/)(5), [Hong Liu](https://www.ibs.re.kr/ecopro/hongliu/)(4), [Zixiang Xu](https://www.ibs.re.kr/ecopro/zixiangxu/)(3), [Xiande Zhang](http://staff.ustc.edu.cn/~drzhangx/)(2), [Chong Shangguan](https://faculty.sdu.edu.cn/sgc/zh_CN/index/1259037/list/index.htm)(2), Xinbu Cheng(2), [Lior Gishboliner](https://sites.google.com/view/lior-gishboliner)(1), Zhifei Yan(1), Yuhao Zhao(1), Bin Wang(1), Yuzhen Qi(1), Wenjie Zhong(1), [Ting-Wei Chao](https://www.twchao.org/)(0)"
     design:
       columns: '1'
   
