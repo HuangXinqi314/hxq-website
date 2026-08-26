@@ -4,7 +4,7 @@ authors:
 - Lior Gishboliner
 - admin
 - Hong Liu
-date: "2026-08-26 T00:00:00Z"
+date: "2026-08-26T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
