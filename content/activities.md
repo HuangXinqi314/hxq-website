@@ -19,6 +19,8 @@ menu:
 </style>
 
 <div class="activities-list">
+
+- 2026.08.28, Accumulation Points of Homomorphism Thresholds, contributed talk, ASIACOMB 2026, Daejeon, South Korea.
   
 - 2026.06.06-07, *On the Blowup Thereshold of Graphs*, invited talk, Young Scholars Forum on Graph Theory and Combinatorics, Shandong University, Online. 
 
