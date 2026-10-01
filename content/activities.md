@@ -19,6 +19,9 @@ menu:
 </style>
 
 <div class="activities-list">
+- 2026.09.20, *Recent Developments in the Brown--Erdős--Sós Problem*, invited talk, Discrete Mathematics and Theoretical Computer Science Research Center, Fuzhou University, Fuzhou, China.
+
+- 2026.09.14, *Recent Developments in the Brown--Erdős--Sós Problem*, invited talk, Seminar on Discrete Mathematics, Xiamen University, Xiamen, China.
 
 - 2026.08.28, Accumulation Points of Homomorphism Thresholds, contributed talk, ASIACOMB 2026, Daejeon, South Korea.
   
