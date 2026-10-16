@@ -16,8 +16,8 @@ doi: ""
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Combinatorial Theory, Series B* (**JCTB**), Volume 182 (2027), 286–324."
-publication_short: "*Journal of Combinatorial Theory, Series B* (**JCTB**), Volume 182 (2027), 286–324."
+publication: "*Journal of Combinatorial Theory, Series B* (**JCTB**), Volume 182, January 2027, 286–324."
+publication_short: "*Journal of Combinatorial Theory, Series B* (**JCTB**), Volume 182, January 2027, 286–324."
 
 abstract: >-
   The problem of chromatic thresholds seeks for minimum degree conditions that
