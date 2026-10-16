@@ -16,7 +16,7 @@ doi: ""
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Frontiers in Combinatorics and Number Theory **(FCNT)**, vol. 2, May 2026"
+publication: "Frontiers in Combinatorics and Number Theory **(FCNT)**, Volume 2, May 2026"
 publication_short: ""
 
 abstract: |- 
