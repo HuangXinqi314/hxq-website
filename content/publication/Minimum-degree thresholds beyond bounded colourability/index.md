@@ -14,8 +14,8 @@ doi: ""
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Survey** **paper** Accepted for publication in the Proceedings of the International Consortium of Chinese Mathematicians (**ICCM** 2025)"
-publication_short: **Survey** **ICCM** 2025
+publication: "**Survey paper**, accepted for publication in the *Proceedings of the International Consortium of Chinese Mathematicians (ICCM 2025)*"
+publication_short: "**Survey, ICCM 2025**"
 
 abstract: >-
   We survey recent developments on minimum-degree thresholds in extremal graph theory, with an emphasis on structural refinements of the chromatic-threshold problem. The chromatic threshold asks when a linear minimum-degree condition forces bounded chromatic number in an \(H\)-free graph; its complete classification shows a striking finite trichotomy. We discuss several stronger and related threshold notions in which bounded colourability is replaced by bounded \(H\)-free homomorphic images, bounded neighbourhood complexity via VC-dimension, exact blowup structure for maximal \(H\)-free graphs, and improved quantitative bounds in graph removal lemmas. In contrast with the rigidity of the chromatic threshold, these newer parameters exhibit richer behaviour, including separations from \(\delta_\chi(H)\), new exact values, accumulation points in fixed-chromatic spectra, positivity phenomena for 3-chromatic graphs, asymmetric variants, and failures of monotonicity.
